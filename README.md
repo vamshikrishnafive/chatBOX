@@ -1,2 +1,3 @@
 # chatBOX
  
+npm install
